@@ -12,7 +12,8 @@
         "symfony/flex": "^1.1",
         "symfony/framework-bundle": "5.0.*",
         "symfony/mercure-bundle": "^0.2",
-        "symfony/yaml": "5.0.*"
+        "symfony/yaml": "5.0.*",
+        "webonyx/graphql-php": "^0.13.8"
     },
     "require-dev": {
         "api-platform/schema-generator": "^2.1",
